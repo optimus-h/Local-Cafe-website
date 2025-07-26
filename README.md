@@ -64,16 +64,16 @@ Welcome to **Brew & Beyond**, a cozy and convenient café experience brought onl
 
 ##  🔧 To-do
 
-- [ ]The prices listed are dummy prices, and so in the subscription.
-- [ ]Integration with Backend
-- [ ]Profile page is left that is shown after successfull registration
-- [ ]Bestsellers page in the Menu and order page
-- [ ]Adding the option to filter the items in the order and menu page
-- [ ]Adding a discount/coupon code page
-- [ ]Set new password page
-- [ ]Recent orders and cart pages
-- [ ]Customize order page
-- [ ]Connecting with Table booking pages
+- [ ] The prices listed are dummy prices, and so in the subscription.
+- [ ] Integration with Backend
+- [ ] Profile page is left that is shown after successfull registration
+- [ ] Bestsellers page in the Menu and order page
+- [ ] Adding the option to filter the items in the order and menu page
+- [ ] Adding a discount/coupon code page
+- [ ] Set new password page
+- [ ] Recent orders and cart pages
+- [ ] Customize order page
+- [ ] Connecting with Table booking pages
 
 ## Upcoming features
 - [ ] Admin dashboard to manage orders and feedback
@@ -84,6 +84,10 @@ Welcome to **Brew & Beyond**, a cozy and convenient café experience brought onl
 
 ---
 
+## References for UI
+
+- [Quills Coffee](https://quillscoffee.com)
+- [Starbucks](https://starbucks.com)
 
 ---
 
