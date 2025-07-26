@@ -1,7 +1,7 @@
 # Local-Cafe-website
 Making a webbsite intended for cafes with new features like custom order and table booking
 
-#Brew and Beyond(B&B) - Cafe website ☕️
+# Brew and Beyond (B&B) - Cafe website ☕️
 
 Welcome to **Brew & Beyond**, a cozy and convenient café experience brought online! The motive of this project is to make a fully functional and beautifully designed café website that caters to busy customers, casual sit-ins, and subscription-based coffee lovers.
 
